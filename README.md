@@ -7,7 +7,7 @@ MineGuard AI is an intelligent governance platform that unifies coal mine inspec
 
 > **Our vision:** Every compliance gap should be visible, every critical risk should be prioritized, and every corrective action should have a clear path to closure.
 
----
+
 
 ## 🚨 The Problem
 
